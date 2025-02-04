@@ -1,0 +1,20 @@
+{
+  "name": "bike_retail_dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dinhtanloc/Bike_retail_dashboard#readme",
+  "bugs": {
+    "url": "https://github.com/dinhtanloc/Bike_retail_dashboard/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinhtanloc/Bike_retail_dashboard.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
